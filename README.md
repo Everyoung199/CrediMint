@@ -1,5 +1,6 @@
 [Proposal] CrediMint: A Decentralized Reputation & Credential Verification Agent
 
+![18f6be33-f895-4a5c-8581-1c1dd3b50777_20250209_211238_0000](https://github.com/user-attachments/assets/904182b1-9a5e-48b9-a209-18b04bbb29ed)
 Introduction
 
 Verifying credentials—such as certifications, work history, and DAO contributions—remains a challenge in Web3. Many claims are forged, unverifiable, or easily lost, making it difficult for DAOs, Web3 projects, and AI-driven hiring platforms to identify real, skilled individuals.
